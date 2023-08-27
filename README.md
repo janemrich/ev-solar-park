@@ -1,5 +1,5 @@
-# Solar plus Battery EV charging park simulator
-Simulate the hourly energy and cash flows of a solar + battery EV charging park throughout a whole year.
+# Solar plus Battery EV charging park energy and cash flow simulator
+Simulate the hourly energy and cash flows of a solar + battery EV charging park throughout a whole year and derive an income statement.
 
 The cars are assumed to arrive randomly but poisson distributed. The solar radiation is assumed to be sine wave shaped throughout the year with a 10 times higher power in summer (perfectly facing the sun in summer). Then the energy flows are derived hourly with accounting for the cash flows.
 
